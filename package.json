@@ -1,0 +1,19 @@
+{
+  "name": "my-number-convertion",
+  "version": "1.0.0",
+  "description": "js进制转换方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NearKid/my-number-convertion.git"
+  },
+  "author": "luch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NearKid/my-number-convertion/issues"
+  },
+  "homepage": "https://github.com/NearKid/my-number-convertion#readme"
+}
